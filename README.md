@@ -8,7 +8,7 @@ This repository contains my practice work on Data Structures and Algorithms (DSA
 ## Folder Structure
       DSA-Practice
             -> Array
-                *Linear Search ()
+                *Linear Search (https://github.com/SharmilaArumugam237/DSA-Practice/blob/main/Array/BinarySearch.java)
                 *Binary Search
                 *Bubble Sort
                 *Selection Sort
